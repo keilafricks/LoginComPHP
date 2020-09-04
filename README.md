@@ -1,1 +1,1 @@
-<h1>Login criado usando PHP</h1>
+<h1>Login criado usando PHP.</h1>
